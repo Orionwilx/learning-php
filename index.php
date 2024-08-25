@@ -1,6 +1,6 @@
 <?php
 
-const API_URL = "https://whenisthenextmcufilm.com/api";
+const API_URL = "https://www.whenisthenextmcufilm.com";
 # Inicializar una nueva sesión de cURL; ch = cURL handle
 $ch = curl_init(API_URL);
 // Indicar que queremos recibir el resultado de la petición y no mostrarla en pantalla
